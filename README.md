@@ -4,5 +4,7 @@
 # Test
 This is a Test page where I am learning how Github works
 
+Oh, never mind I can edit the file, I just didn't know where to look
+
 https://chatgpt.com
 
